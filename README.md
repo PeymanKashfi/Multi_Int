@@ -1,2 +1,2 @@
 # Multi_Int
-Handling multiple interrupts on the same line (GPIO EXTI9_5)
+Please refer to the file README.docx in the ExternalInt\Notes folder.
